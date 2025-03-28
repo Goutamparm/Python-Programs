@@ -1,0 +1,2 @@
+Hello, welcome to file handling in Python!
+Let's append more text!
